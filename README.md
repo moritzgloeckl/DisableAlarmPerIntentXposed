@@ -1,5 +1,5 @@
 # DisableAlarmPerIntentXposed 1.0.0
-Adds functionality to disable all `com.android.deskclock` alarms using an Xposed hook.
+Adds functionality to disable all `com.android.deskclock` alarms using an Xposed hook. I use it to turn off all alarms via a HomeAssistant automation.
 
 ## How to use
 
